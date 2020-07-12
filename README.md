@@ -1,3 +1,5 @@
+### https://takagotch.github.io/page202
+
 # BCORE
 BCORE merupakan template yang sepenuhnya Responsif admin berdasarkan kerangka bootstrap twitter. Muncul dengan hampir semua plugin yang Anda diperlukan. Coba lihat pada demo dan Anda akan mengetahui seberapa kompleks template ini. Silahkan download dan gunakan secara gratis sesuai dengan kebutuhan Anda.
 
